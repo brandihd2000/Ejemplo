@@ -5,6 +5,8 @@
  */
 package ejemplogit;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author brand
@@ -16,6 +18,8 @@ public class EjemploGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        JOptionPane.showMessageDialog(null,"Hola Mundo");
     }
     
 }
